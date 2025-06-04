@@ -80,6 +80,29 @@ Ofc, I have a lot of projects, like katas, ideas for different languages (kotlin
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit)
 
 
+## 🌍 Open Source Contributions
+
+I try to contribute when I can (though time is limited!).  
+Some examples:
+
+- [tokio contributions](https://github.com/search?q=tokio+carlosb1&type=commits)
+- [kornia (computer vision)](https://github.com/search?q=kornia+carlosb1&type=commits)
+- [nix-rust ecosystem](https://github.com/search?q=org%3Anix-rust+carlosb1&type=commits)
+- [projects-rust](https://github.com/carlosb1/projects-rust) – my playground for Rust micro-projects and side explorations
+
+---
+
+## 🤝 Community Involvement
+
+I've helped and participated in several tech communities and open collaboration spaces:
+
+- [Akasha Hub Barcelona](https://akasha.barcelona/personas-miembros-akasha-hub/)
+- [Software Crafters Barcelona](https://softwarecrafters.barcelona/)
+- [Labdoo (tech for education)](https://www.labdoo.org/en/)
+- [Trust0 Project – RIDB contributor](https://github.com/trust0-project/RIDB)
+
+---
+
 ---
 
 ## 📫 Let's Connect
