@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Carlos
 
-I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built trading, distributed and AI tools,  and designed robust peer-to-peer architectures.
+I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built trading, distributed and AI tools,  and designed robust peer-to-peer architectures. you can check my personal [web](https://carlosb1.github.io)
 
 ---
 
@@ -12,8 +12,24 @@ I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blo
 - 📈 **[Crypto Real-Time Tracker](https://github.com/carlosb1/stock-order-playground)** – A WebSocket-based tracker for live BTC/ETH price feeds with sled database integration.
 
 ### ✅ Old projects
-- 
----
+
+- 🛠️ **[summarization-editor](https://github.com/carlosb1/summarization-editor)** – Web tool to refine AI-generated transcriptions with edit tracking and playback.  
+  _Being cleaned up and documented for broader use._
+
+- 🛠️ **[examples-c14](https://github.com/carlosb1/examples-c14)** – Experiments and deep dives in Rust, ZK, P2P, and consensus.  
+  _Personal lab to test ideas and patterns._
+
+- 🛠️ **[infra-projects: django-rds-celery-mlflow](https://github.com/carlosb1/infra-projects/tree/main/django-rds-celery-mlflow/app)** – A complete stack setup with Django, RDS, Celery and Docker.  
+  _Currently improving Docker setup and infra automation._
+
+- 🗃️ **[upc-aidl-19-team4](https://github.com/carlosb1/upc-aidl-19-team4)** – Final university project involving Android, AIDL, and inter-process communication.  
+  _Archived, but kept for historical and academic context._
+
+- ✅ **[workshop-distributed-systems](https://github.com/carlosb1/workshop-distributed-systems)** – Hands-on material to learn how to build distributed systems in Rust.  
+  _Used in internal workshops and now shared publicly._
+
+Ofc, I have a lot of projects, like katas, ideas for different languages (kotlin, elixir, python, etc...)
+
 
 ## 🛠️ Technologies & Tools 
 
