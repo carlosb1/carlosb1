@@ -11,7 +11,7 @@ I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blo
 - 🔗 **[P2P Voting System](https://github.com/carlosb1/p2p-poc)** – A decentralized voting system using libp2p and a custom consensus layer.
 - 📈 **[Crypto Real-Time Tracker](https://github.com/carlosb1/stock-order-playground)** – A WebSocket-based tracker for live BTC/ETH price feeds with sled database integration.
 
-### ✅ Old projects
+### ✅ (some, I have a lot of stuff) Old projects
 
 - 🛠️ **[summarization-editor](https://github.com/carlosb1/summarization-editor)** – Web tool to refine AI-generated transcriptions with edit tracking and playback.  
   _Being cleaned up and documented for broader use._
