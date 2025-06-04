@@ -1,18 +1,23 @@
 # 👋 Hi there! I'm Carlos
 
-I'm a senior backend engineer specialized in **Rust**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built real-time trading tools, and designed robust peer-to-peer architectures.
+I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built trading, distributed and AI tools,  and designed robust peer-to-peer architectures.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🧠 **[zkMiniVM](https://github.com/yourusername/zkMiniVM)** – A zero-knowledge mini virtual machine built in Rust for zk-proof experimentation.
-- 🔗 **[P2P Voting System](https://github.com/yourusername/p2p-voting)** – A decentralized voting system using libp2p and a custom consensus layer.
-- 📈 **[Crypto Real-Time Tracker](https://github.com/yourusername/crypto-tracker)** – A WebSocket-based tracker for live BTC/ETH price feeds with sled database integration.
+### 🚧 WIP projects
+- 🧠 **[zkMiniVM](https://github.com/carlosb1/mini-zkvm)** – Starting to play with zero-knowledge, mini virtual machine built in Rust for zk-proof experimentation.
+- 🔗 **[P2P Voting System](https://github.com/carlosb1/p2p-poc)** – A decentralized voting system using libp2p and a custom consensus layer.
+- 📈 **[Crypto Real-Time Tracker](https://github.com/carlosb1/stock-order-playground)** – A WebSocket-based tracker for live BTC/ETH price feeds with sled database integration.
 
+### ✅ Old projects
+- 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 
+
+- I worked in more projects, but these (right now) is my main stack.
 
 ### 🔧 Languages & Runtimes
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
@@ -35,6 +40,7 @@ I'm a senior backend engineer specialized in **Rust**, **blockchain**, and **dis
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat&logo=githubactions)
 
 ### 🌐 Networking, Web & Protocols
+![tokio](https://img.shields.io/badge/tokio-000000?style=flat)
 ![libp2p](https://img.shields.io/badge/libp2p-000000?style=flat)
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat&logo=grpc)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
@@ -62,9 +68,9 @@ I'm a senior backend engineer specialized in **Rust**, **blockchain**, and **dis
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📬 [Email](mailto:youremail@example.com)
-- 🧠 Blog (optional): [yourblog.dev](https://yourblog.dev)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/carlos.baezruiz)
+- 📬 [Email](mailto:carlos.baezruiz@gmail.com)
+- 🧠 Blog (optional): [yourblog.dev](https://carlosb1.github.io)
 
 ---
 
