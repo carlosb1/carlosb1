@@ -97,7 +97,8 @@ Some examples:
 I've helped and participated in several tech communities and open collaboration spaces:
 
 - [Akasha Hub Barcelona](https://akasha.barcelona/personas-miembros-akasha-hub/)
-- [Software Crafters Barcelona](https://softwarecrafters.barcelona/)
+  [Rust Bcn](https://www.youtube.com/watch?v=Tz5r-SJS-sw)
+- [Software Crafters Barcelona](https://softwarecrafters.barcelona/) [video](https://www.youtube.com/watch?v=t7ADCFDQ6-0)
 - [Labdoo (tech for education)](https://www.labdoo.org/en/)
 - [Trust0 Project – RIDB contributor](https://github.com/trust0-project/RIDB)
 
