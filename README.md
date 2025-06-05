@@ -28,8 +28,27 @@ I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blo
 - ✅ **[workshop-distributed-systems](https://github.com/carlosb1/workshop-distributed-systems)** – Hands-on material to learn how to build distributed systems in Rust.  
   _Used in internal workshops and now shared publicly._
 
-Ofc, I have a lot of projects, like katas, ideas for different languages (kotlin, elixir, python, etc...)
+--- 
 
+## 📦 Archived & Legacy Projects
+
+- 🗃️ **[Publisher/Subscriber Library](https://github.com/carlosb1/projects-rust/tree/master/pub_sub_lib)** – Tokio-based pub-sub communication example in Rust.
+
+- 🗃️ **[Serverless Workshop Examples](https://github.com/carlosb1/projects-rust/tree/master/workshop_serveless)** – Demonstrations used for serverless architecture workshops.
+
+- 🗃️ **[Bot News Detector](https://github.com/carlosb1/projects-rust/tree/master/bot_news)** – Crawls news and detects fraud-like content.
+
+- 🗃️ **[Java Clean Architecture](https://github.com/carlosb1/java-challenge-cleanarchitecture)** – Demonstration of clean architecture principles in Java.
+
+- 🗃️ **[Siamese Neural Network](https://github.com/carlosb1/upc-aidl-19-team4)** – Model for image-based identity matching using Siamese architecture.
+
+- 🗃️ **[CBIR Search System](https://github.com/carlosb1/projects-python/tree/master/flask-cbir)** – Content-Based Image Retrieval system using VGG16 + Flask.
+
+- 🗃️ **[Old Rust Projects](https://github.com/carlosb1/projects-rust)** – My drawer of past Rust experiments and learning exercises.
+
+---
+
+Ofc, I have a lot of projects, like katas, ideas for different languages (kotlin, elixir, python, etc...)
 
 ## 🛠️ Technologies & Tools 
 
