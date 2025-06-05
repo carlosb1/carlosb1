@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Carlos
 
-I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built trading, distributed and AI tools,  and designed robust peer-to-peer architectures. you can check my personal [web](https://carlosb1.github.io)
+I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blockchain**, and **distributed systems**. With over 15 years of experience, I've contributed to open-source projects, built trading, distributed and AI tools,  and designed robust peer-to-peer architectures. you can check my personal [web](https://carlosb1.github.io), 8 years coding in [Rust](https://stackoverflow.com/questions/46867652/cannot-import-a-module-in-an-integration-test) or more.
 
 ---
 
