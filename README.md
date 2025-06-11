@@ -16,7 +16,7 @@ I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blo
 - 🛠️ **[summarization-editor](https://github.com/carlosb1/summarization-editor)** – Web tool to refine AI-generated transcriptions with edit tracking and playback.  
   _Being cleaned up and documented for broader use._
 
-- 🛠️ **[examples-c14](https://github.com/carlosb1/examples-c14)** – Experiments and deep dives in Rust, ZK, P2P, and consensus.  
+- 🛠️ **[examples-c14](https://github.com/carlosb1/examples-c14)** – Experiments in C++ 14
   _Personal lab to test ideas and patterns._
 
 - 🛠️ **[infra-projects: django-rds-celery-mlflow](https://github.com/carlosb1/infra-projects/tree/main/django-rds-celery-mlflow/app)** – A complete stack setup with Django, RDS, Celery and Docker.  
@@ -119,7 +119,7 @@ I've helped and participated in several tech communities and open collaboration 
   [Rust Bcn](https://www.youtube.com/watch?v=Tz5r-SJS-sw)
 - [Software Crafters Barcelona](https://softwarecrafters.barcelona/) [video](https://www.youtube.com/watch?v=t7ADCFDQ6-0)
 - [Labdoo (tech for education)](https://www.labdoo.org/en/)
-- [Trust0 Project – RIDB contributor](https://github.com/trust0-project/RIDB)
+<!-- - [Trust0 Project – RIDB contributor](https://github.com/trust0-project/RIDB) -->
 
 ---
 
