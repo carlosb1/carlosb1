@@ -107,7 +107,6 @@ Some examples:
 - [tokio contributions](https://github.com/search?q=tokio+carlosb1&type=commits)
 - [kornia (computer vision)](https://github.com/search?q=kornia+carlosb1&type=commits)
 - [nix-rust ecosystem](https://github.com/search?q=org%3Anix-rust+carlosb1&type=commits)
-- [projects-rust](https://github.com/carlosb1/projects-rust) – my playground for Rust micro-projects and side explorations
 - [meilisearch](https://github.com/search?q=repo%3Ameilisearch%2Fmeilisearch+carlosb1&type=pullrequests)
 
 ---
