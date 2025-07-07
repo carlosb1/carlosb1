@@ -7,7 +7,7 @@ I'm a senior backend engineer specialized in **Rust**, **Python**, **AI**, **blo
 ## 🚀 Featured Projects
 
 ### 🚧 WIP projects
-- 🧠 **[zkMiniVM](https://github.com/carlosb1/mini-zkvm)** – Starting to play with zero-knowledge, mini virtual machine built in Rust for zk-proof experimentation.
+- 🧠 **[zkMiniVM](https://github.com/carlosb1/mini-zkvm)** **[zk_docsim](https://github.com/carlosb1/zk_docsim)** – Starting to play with zero-knowledge, mini virtual machine built in Rust for zk-proof and AI-LLM experimentation .
 - 🔗 **[P2P Voting System](https://github.com/carlosb1/p2p-poc)** – A decentralized voting system using libp2p and a custom consensus layer.
 - 📈 **[Crypto Real-Time Tracker](https://github.com/carlosb1/stock-order-playground)** – A WebSocket-based tracker for live BTC/ETH price feeds with sled database integration.
 
