@@ -129,7 +129,7 @@ I've helped and participated in several tech communities and open collaboration 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/carlos.baezruiz)
 - 📬 [Email](mailto:carlos.baezruiz@gmail.com)
-- 🧠 Blog (optional): [yourblog.dev](https://carlosb1.github.io)
+- 🧠 Blog: [carlosb1.github.io](https://carlosb1.github.io)
 
 ---
 
